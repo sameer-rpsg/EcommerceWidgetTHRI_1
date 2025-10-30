@@ -10,8 +10,8 @@ const Article = () => {
       data-current="true"
       data-promotional="false"
       islast="false"
-      data-id="68c7ec4d0215019d6ccfd0e0"
-      data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+      data-id="687a100ba79c7c4165d63b39"
+      data-slug="/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
       style={{ position: "relative" }}
     >
       <section id="storiesherosec" className="Stories_storiesHeroSec__eOd_9">
@@ -21,27 +21,27 @@ const Article = () => {
               <div className="Stories_breadcumSec__5W47j">
                 <ol className="Stories_breadcrumb__GxI6O">
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features">Features</a>
+                    <a href="/lifestyle">Lifestyle</a>
                   </li>
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features/insight">Insight</a>
+                    <a href="/lifestyle/fashion">Fashion</a>
                   </li>
                 </ol>
               </div>
               <div className="Stories_contentSec__EbmC6">
                 <h1>
-                  Dulquer Salmaan On Pan-Indian Success of 'Lokah': 'We Thought
-                  We Might Lose Money on This Film'
+                  On-Set Wardrobes: What Kr$na, Udit Arora, Shaan Grover, Kunal
+                  Bhan and Vedant Mahajan Wear To Work
                 </h1>
                 <p>
-                  Actor-producer Dulquer Salmaan says that the team braced for a
-                  loss before 'Lokah: Chapter 1 - Chandra' became a nationwide
-                  hit.{" "}
+                  From crisp tailoring to rainy-day essentials, rising talents
+                  across music, film and entertainment show us how they navigate
+                  style with ease — no matter the forecast.
                 </p>
                 <div className="Stories_author_wrapper__X_Bc3">
                   <div>
                     <img
-                      alt="Team THR India"
+                      alt="Ananya Shankar"
                       loading="lazy"
                       width={50}
                       height={50}
@@ -49,7 +49,7 @@ const Article = () => {
                       data-nimg={1}
                       className="Stories_author_image__mA2__"
                       style={{ color: "transparent" }}
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-09-22T13%253A03%253A07.306Z-100x100%2520THR%2520favicon.png&w=128&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-10-14T11%253A26%253A10.068Z-use%2Bthis.jpg&w=128&q=75"
                     />
                   </div>
                   <div className="Stories_author_right__4NHrP">
@@ -64,7 +64,7 @@ const Article = () => {
                       <span className="Stories_author_name__6fo16">
                         By{/* */}{" "}
                         <span style={{ cursor: "pointer" }}>
-                          Team THR India
+                          Ananya Shankar
                         </span>
                       </span>
                       <span>
@@ -95,7 +95,7 @@ const Article = () => {
                       </span>
                     </div>
                     <span className="Stories_timeline__WwKrc">
-                      LAST UPDATED: {/* */}SEP 15, 2025, 17:17 IST
+                      LAST UPDATED: {/* */}JUL 30, 2025, 12:49 IST
                     </span>
                     <span
                       className="Stories_timeline__WwKrc"
@@ -117,7 +117,7 @@ const Article = () => {
               <ul className="Stories_followus__pCkrF">
                 <a
                   target="_blank"
-                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -139,7 +139,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film&redirect_uri=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work&redirect_uri=https://www.hollywoodreporterindia.com/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -161,7 +161,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -203,16 +203,11 @@ const Article = () => {
             <div className="col-md-12">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-top-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-top-687a100ba79c7c4165d63b39"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CLO5mb-G3Y8DFUmoZgIdI6kE2w"
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-Top-970_0__container__"
-                    // style={{ border: "0pt none", width: 970, height: 0 }}
-                  />
-                </div>
+                  data-google-query-id="CP_jiKbty5ADFW-7SwUdurE8zA"
+                ></div>
               </div>
             </div>
           </div>
@@ -229,7 +224,7 @@ const Article = () => {
                 <div className="Stories_heroImgCont__wemPS">
                   <div className="pos-rel-full">
                     <img
-                      alt="Dulquer Salmaan talks about surpassing expectations with 'Lokah'"
+                      alt=""
                       loading="lazy"
                       decoding="async"
                       data-nimg="fill"
@@ -244,7 +239,7 @@ const Article = () => {
                         color: "transparent",
                       }}
                       sizes="100vw"
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T10%253A54%253A22.589Z-IMG_4145.JPEG&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-07-18T10%253A52%253A07.600Z-Lead_New.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -257,8 +252,13 @@ const Article = () => {
             <div className="col-md-12 text-start">
               <div className="Stories_mainCaption__CKMoz">
                 <span className="Stories_caption__pLYWo">
-                  Dulquer Salmaan talks about surpassing expectations with
-                  'Lokah'
+                  Vedant Mahajan, Udit Arora, Kr$na, Kunal Bhan and Shaan
+                  Grover.
+                </span>
+                <span className="Stories_courtesy__IorTZ">
+                  Grover, Adit Gupta; Arora, Mahajan, courtesy of the subject;
+                  Kr$na, Kormi Lamar, styled by Robertson Lyngdoh; Bhan, Bharat
+                  Rawail.
                 </span>
               </div>
             </div>
@@ -277,54 +277,479 @@ const Article = () => {
                       data-node-view-wrapper=""
                       style={{ whiteSpace: "normal" }}
                     >
+                      <h3
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>Singers</span>
+                      </h3>
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
-                        <span>In an exclusive conversation with </span>
-                        <span style={{ fontStyle: "italic" }}>
-                          The Hollywood Reporter India
+                        <span>
+                          One of Indian hip-hop’s most skilled and introspective
+                          voices, New Delhi-based (aka Krishna Kaul) isn’t just
+                          known for his razor-sharp lyrics; his personal style
+                          is equally compelling. With the recent release of his
+                          EP Far From Over, a five-track exploration of
+                          resilience, self-doubt and evolution, Kr$na proves
+                          he’s not here to blend in. Describing his aesthetic as
+                          “street casual”, the rapper keeps it real whether he’s
+                          in the studio or on the move. One can usually find him
+                          in baggy jeans and a relaxed tee or experimenting with
+                          layers and coordination depending on his mood. In the
+                          studio, comfort reigns. “Big track pants and a T-shirt
+                          in the summer, or a nice cosy hoodie in the winter
+                          with some white Air Forces on my feet,” says Kaul.
+                          Whether performing, producing, or just hanging back,
+                          Kr$na’s style, much like his music, is sharply curated
+                          and authentically his own.
                         </span>
-                        <span>, </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          href="https://www.hollywoodreporterindia.com/tag/dulquer-salmaan"
+                      </p>
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
                         >
-                          <span>actor-producer Dulquer Salmaan</span>
-                        </a>
+                          <div
+                            className="rsme-embed rsme-instagram-embed a572d048-0de0-4463-b0b8-1516c1328019"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
+                          >
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-0"
+                              src="https://www.instagram.com/p/DJ_L5kVB-4b/embed/?cr=1&v=14&wp=526&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fon-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work#%7B%22ci%22%3A0%2C%22os%22%3A782.5999999940395%2C%22ls%22%3A389.40000000596046%2C%22le%22%3A395.09999999403954%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={751}
+                              data-instgrm-payload-id="instagram-media-payload-0"
+                              scrolling="no"
+                              style={{
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
+                      <h3
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      />
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div className="Stories_relatedPostWrapper__sQzlS">
+                          <h2 className="Stories_relatedPostHeading__7h_ax">
+                            You may also like
+                          </h2>
+                          <div
+                            className="Stories_grid__YZ_gk"
+                            style={{ width: "100%" }}
+                          >
+                            <a
+                              className="Stories_relatedPostCard__Chg_m"
+                              target="_blank"
+                              href="/features/columns/on-set-wardrobes-chitrangda-singh-siddharth-p-malhotra-panchami-ghavri-malani-and-gaurav-amlani-on-what-they-wear-to-work"
+                            >
+                              <div className="Stories_relatedPostImage__mctc0">
+                                <img
+                                  alt="Panchami Ghavri, Siddharth P. Malhotra, Chitrangda Singh and Gaurav Amlani."
+                                  loading="lazy"
+                                  decoding="async"
+                                  data-nimg="fill"
+                                  className="imgcover"
+                                  sizes="100vw"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-06-10T08%253A09%253A27.911Z-Lead2.jpg&w=3840&q=75"
+                                  style={{
+                                    position: "absolute",
+                                    height: "100%",
+                                    width: "100%",
+                                    inset: 0,
+                                    objectFit: "cover",
+                                    color: "transparent",
+                                  }}
+                                />
+                              </div>
+                              <div className="w-100 bg-red-100">
+                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
+                                  Columns
+                                </h3>
+                                <h3 className="Stories_card-title__yoKzB mb-0">
+                                  On-Set Wardrobes: Chitrangda Singh, Siddharth
+                                  P. Malhotra, Panchami Ghavri Malani and Gaurav
+                                  Amlani on What They Wear to Work
+                                </h3>
+                              </div>
+                            </a>
+                            <a
+                              className="Stories_relatedPostCard__Chg_m"
+                              target="_blank"
+                              href="/lifestyle/fashion/on-set-wardrobes-priyanka-khimani-kavita-rajwade-kesav-binoy-kiron-subhi-and-natania-on-what-they-wear-to-work"
+                            >
+                              <div className="Stories_relatedPostImage__mctc0">
+                                <img
+                                  alt="Subhi and Kesav Binoy Kiron."
+                                  loading="lazy"
+                                  decoding="async"
+                                  data-nimg="fill"
+                                  className="imgcover"
+                                  sizes="100vw"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-05-13T07%253A46%253A50.606Z-Lead.jpg&w=3840&q=75"
+                                  style={{
+                                    position: "absolute",
+                                    height: "100%",
+                                    width: "100%",
+                                    inset: 0,
+                                    objectFit: "cover",
+                                    color: "transparent",
+                                  }}
+                                />
+                              </div>
+                              <div className="w-100 bg-red-100">
+                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
+                                  Fashion
+                                </h3>
+                                <h3 className="Stories_card-title__yoKzB mb-0">
+                                  On-Set Wardrobes: Priyanka Khimani, Kavita
+                                  Rajwade, Kesav Binoy Kiron, Subhi and Natania
+                                  on What They Wear To Work
+                                </h3>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div className={styles.EcomHovercardwrapper}>
+                        <EcomWidgetCard imgSrc="https://cdn.esquireindia.co.in/editor-images/2025-05-19T11%3A03%3A17.223Z-Inline6.jpg" />
+                      </div>
+                      <EcomWidgetGrid />
+                      <h3
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>Actors</span>
+                      </h3>
+                      <p style={{ textAlign: "left" }} />
+                      <div>
+                        <div className="ad-flex-all">
+                          <div
+                            id="div-gpt-ad-stories-middle-687a100ba79c7c4165d63b39-7"
+                            data-cy="Ad"
+                            className="ad-text"
+                            data-google-query-id="CKnNiqbty5ADFRACgwMdmuoWxQ"
+                            style={{ marginBottom: 20 }}
+                          ></div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }}>
+                        <span>Best known for </span>
+                        <span style={{ fontStyle: "italic" }}>Jamtara </span>
+                        <span>(2020),</span>
+                        <span style={{ fontStyle: "italic" }}>
+                          {" "}
+                          The Zoya Factor
+                        </span>
+                        <span> (2019), and </span>
+                        <span style={{ fontStyle: "italic" }}>The Royals</span>
+                        <span> (2025), actor Udit Arora tells </span>
+                        <span style={{ fontStyle: "italic" }}>
+                          The Hollywood Reporter India{" "}
+                        </span>
+                        <span>
+                          that comfort and polish walk together in his wardrobe.
+                          “I lean towards pastels and relaxed fits — clean,
+                          breathable, and a bit effortless,” he shares. White
+                          pants are a staple in his daytime look, often paired
+                          with a structured blazer to bring in a touch of
+                          formality; on set, it’s all about loose silhouettes.
+                          And for readings or press, a smart jacket seals the
+                          look.{" "}
+                        </span>
+                      </p>
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
+                          <div
+                            className="rsme-embed rsme-instagram-embed ba32e8a7-5b79-4436-a258-2d3af3e43a92"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
+                          >
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-1"
+                              src="https://www.instagram.com/p/DJvx3MbMgc5/embed/?cr=1&v=14&wp=526&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fon-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work#%7B%22ci%22%3A1%2C%22os%22%3A784.5%2C%22ls%22%3A389.40000000596046%2C%22le%22%3A395.09999999403954%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={787}
+                              data-instgrm-payload-id="instagram-media-payload-1"
+                              scrolling="no"
+                              style={{
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          Speaking of jackets, actor Shaan R Grover has a really
+                          special one in his closet. Having worked in projects
+                          like{" "}
+                        </span>
+                        <span style={{ fontStyle: "italic" }}>
+                          Sanam Teri Kasam
+                        </span>
+                        <span> (2016), </span>
+                        <span style={{ fontStyle: "italic" }}>Roohaniyat </span>
+                        <span>(2022) and</span>
+                        <span style={{ fontStyle: "italic" }}> RejctX</span>
                         <span>
                           {" "}
-                          opened up about the overwhelming success of{" "}
+                          (2019), Grover reveals owning Shah Rukh Khan’s black
+                          Dolce &amp; Gabbana leather jacket from{" "}
                         </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          style={{ fontStyle: "italic" }}
-                          href="https://www.hollywoodreporterindia.com/features/insight/lokah-crosses-200-crore-ranks-4th-among-all-time-malayalam-blockbusters"
-                        >
-                          <span style={{ fontStyle: "italic" }}>
-                            Lokah: Chapter 1 — Chandra
-                          </span>
-                        </a>
+                        <span style={{ fontStyle: "italic" }}>
+                          Jab Tak Hai Jaan
+                        </span>
                         <span>
-                          , a film that has not only resonated with Malayalam
-                          audiences but has also broken barriers to become a
-                          pan-India cultural phenomenon.
+                          {" "}
+                          (2012). Cheekily, the actor says, “Now don’t ask me
+                          how I got it!” Off-duty, the actor is a staunch
+                          minimalist. “I like neutral tones, and pieces that are
+                          versatile but still feel intentional,” Grover says.
+                          “To me, elegance doesn’t need to shout to be noticed.”
+                          His go-to fit for work usually comprises a black or
+                          white shirt or a round-neck tee paired with a pair of
+                          well-fitted denims or trousers. “Simple, classic, and
+                          always looks good without trying too hard,” as he puts
+                          it.
                         </span>
                       </p>
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
+                          <div
+                            className="rsme-embed rsme-instagram-embed 54b4a343-b6a8-47ec-aa41-1f9a0f18c360"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
+                          >
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-2"
+                              src="https://www.instagram.com/p/DHQrI1zMFfh/embed/?cr=1&v=14&wp=526&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fon-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work#%7B%22ci%22%3A2%2C%22os%22%3A787%2C%22ls%22%3A389.40000000596046%2C%22le%22%3A395.09999999403954%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={727}
+                              data-instgrm-payload-id="instagram-media-payload-2"
+                              scrolling="no"
+                              style={{
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
                         <span>
-                          Reflecting on the project, Dulquer admitted the team
-                          had modest expectations. “This is our seventh
-                          production, and we've always managed to land safe. But
-                          nothing has been like{" "}
+                          Much like him, actor Kunal Bhan keeps his everyday
+                          look clean and understated — fitted solid tees or
+                          funky casual shirts, always paired with a good watch
+                          and a few accessories. For work, he trusts the stylist
+                          completely. The actor who’s starred in Prime Video’s{" "}
                         </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah</span>
+                        <span style={{ fontStyle: "italic" }}>Jubilee </span>
+                        <span>(2023), </span>
+                        <span style={{ fontStyle: "italic" }}>Sanjivani </span>
+                        <span>(2019) and </span>
+                        <span style={{ fontStyle: "italic" }}>Mercy </span>
                         <span>
-                          ,” he said. “Even as an actor, none of my films have
-                          exploded like this. It’s been accepted across
-                          demographics and has now become a part of pop culture.
-                          That’s what's most exciting.”
+                          — a film that was showcased at the UK Asian Film
+                          Festival in 2025 — explains, “I know it’s my look, so
+                          from home to set or event, it’s generally a simple
+                          plain white or black tee.” Adding, “Maybe I’ve grown
+                          superstitious over the years but that works for me
+                          quite a bit.”{" "}
+                        </span>
+                      </p>
+                      <div>
+                        <div className="ad-flex-all">
+                          <div
+                            id="div-gpt-ad-stories-middle-687a100ba79c7c4165d63b39-14"
+                            data-cy="Ad"
+                            className="ad-text"
+                            data-google-query-id="CI6LjKbty5ADFQgGgwMds9cJnQ"
+                            style={{ marginBottom: 20 }}
+                          ></div>
+                        </div>
+                      </div>
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
+                          <div
+                            className="rsme-embed rsme-instagram-embed 859a19b8-7c1b-4fd7-93ed-fdef7f4ed515"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
+                          >
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-3"
+                              src="https://www.instagram.com/p/DLhAP_CiFx6/embed/?cr=1&v=14&wp=526&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fon-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work#%7B%22ci%22%3A3%2C%22os%22%3A1512%2C%22ls%22%3A389.40000000596046%2C%22le%22%3A395.09999999403954%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={749}
+                              data-instgrm-payload-id="instagram-media-payload-3"
+                              scrolling="no"
+                              style={{
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
+                      <h3
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Entrepreneurs
+                        </span>
+                      </h3>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          In a few short years, Vedant Mahajan has quickly made
+                          a name for himself as one of the most influential
+                          figures in London’s South Asian nightlife scene. The
+                          Mumbai-born entrepreneur started MVM Entertainment as
+                          a teenager, curating events that rapidly evolved from
+                          terrace parties in India to high-profile soirées with
+                          actors like Ed Westwick in attendance. For Mahajan,
+                          fashion is about balance and mood over fleeting
+                          trends. “Some nights I like to keep things simple and
+                          understated,” he says, “other times I’ll lean into
+                          something bolder.” When it comes to major MVM events,
+                          he’s all in — treating himself to standout pieces like
+                          a Celine varsity jacket or something from Harrods or
+                          Selfridges. But his off-duty uniform leans minimal:
+                          clean Zegna shirts, quality tees, and always a classic
+                          watch — an accessory he’s deeply passionate about.
                         </span>
                       </p>
                       <div
@@ -340,23 +765,23 @@ const Article = () => {
                             You may also like
                           </h2>
                           <div
-                            className="Stories_row__bZ032"
+                            className="Stories_grid__YZ_gk"
                             style={{ width: "100%" }}
                           >
                             <a
                               className="Stories_relatedPostCard__Chg_m"
                               target="_blank"
-                              href="/features/insight/mammootty-is-moothon-dulquer-salmaan-confirms-he-played-the-character-in-lokah"
+                              href="/lifestyle/fashion/on-set-wardrobes-kanika-dhillon-barkha-singh-farhana-bodi-and-nikhita-gandhi-on-what-they-wear-to-work"
                             >
                               <div className="Stories_relatedPostImage__mctc0">
                                 <img
-                                  alt="Mammootty Is Moothon; Dulquer Salmaan Confirms He Played The Character In 'Lokah'"
+                                  alt="Kanika Dhillon, Barkha Singh, Farhana Bodi and Nikhita Gandhi."
                                   loading="lazy"
                                   decoding="async"
                                   data-nimg="fill"
                                   className="imgcover"
                                   sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-08T06%253A08%253A55.327Z-Untitled%2520design-174.jpg&w=1920&q=75"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-04-09T08%253A07%253A02.063Z-Lead_N.jpg&w=3840&q=75"
                                   style={{
                                     position: "absolute",
                                     height: "100%",
@@ -369,96 +794,29 @@ const Article = () => {
                               </div>
                               <div className="w-100 bg-red-100">
                                 <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
+                                  Fashion
                                 </h3>
                                 <h3 className="Stories_card-title__yoKzB mb-0">
-                                  Mammootty Is Moothon: Dulquer Salmaan Confirms
-                                  He Played The Role In 'Lokah Chapter One:
-                                  Chandra'
+                                  On-Set Wardrobes: Kanika Dhillon, Barkha
+                                  Singh, Farhana Bodi and Nikhita Gandhi on What
+                                  They Wear To Work
                                 </h3>
                               </div>
                             </a>
-                          </div>
-                        </div>
-                      </div>
-                       <div className={styles.EcomHovercardwrapper}>
-                          <EcomWidgetCard imgSrc="https://cdn.esquireindia.co.in/editor-images/2025-05-19T11%3A03%3A17.223Z-Inline6.jpg" />
-                        </div>
-                        <EcomWidgetGrid />
-                      <div>
-                        <div className="ad-flex-all">
-                          <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-4"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CMDvnL-G3Y8DFbOrZgId-TUq6w"
-                            style={{ marginBottom: 20 }}
-                          >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_0__container__"
-                              style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
-                              }}
-                            />
-                          </div>
-                        </div>
-                      </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          Dulquer revealed that the initial projections were far
-                          from optimistic. “Honestly, we were bracing ourselves
-                          for a potential loss. We believed in the film, but
-                          weren’t sure how it would perform commercially,” he
-                          shared. “Buyers weren’t lining up, and we had made
-                          peace with the idea that we might take a hit on the
-                          first film of the franchise.”
-                        </span>
-                      </p>
-                      <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          But what followed was nothing short of extraordinary.
-                          From day one, Lokah began receiving rave reviews from
-                          all corners of the country. “I was seeing reactions
-                          from across India. It’s a testament to how audiences
-                          today are open to different languages and storytelling
-                          styles. People gave the film a chance on release day
-                          itself—watched it, reviewed it, made reels about it.
-                          It was surreal.”
-                        </span>
-                      </p>
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                          margin: "20px 0",
-                        }}
-                      >
-                        <div className="Stories_relatedPostWrapper__sQzlS">
-                          <h2 className="Stories_relatedPostHeading__7h_ax">
-                            You may also like
-                          </h2>
-                          <div
-                            className="Stories_row__bZ032"
-                            style={{ width: "100%" }}
-                          >
                             <a
                               className="Stories_relatedPostCard__Chg_m"
                               target="_blank"
-                              href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
+                              href="/lifestyle/fashion/on-set-wardrobes-shriya-pilgaonkar-archana-kalpathi-ahan-shetty-on-what-they-wear-to-work"
                             >
                               <div className="Stories_relatedPostImage__mctc0">
                                 <img
-                                  alt=" Tovino Thomas and Dulquer Salmaan "
+                                  alt="Shriya Pilgaonkar (left) opts for her trusty denim-andwhite combo, while Ahan Shetty (right) focuses more on how his clothes fit and feel."
                                   loading="lazy"
                                   decoding="async"
                                   data-nimg="fill"
                                   className="imgcover"
                                   sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-02-24T10%253A23%253A46.363Z-New_Lead%2520What%2520to%2520Wear%2520Now.jpg&w=3840&q=75"
                                   style={{
                                     position: "absolute",
                                     height: "100%",
@@ -471,83 +829,69 @@ const Article = () => {
                               </div>
                               <div className="w-100 bg-red-100">
                                 <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
+                                  Fashion
                                 </h3>
                                 <h3 className="Stories_card-title__yoKzB mb-0">
-                                  'Lokah': Michael and Charlie to Get Standalone
-                                  Films in The Malayalam Film's Universe?
+                                  On-Set Wardrobes: Shriya Pilgaonkar, Archana
+                                  Kalpathi, Ahan Shetty on What They Wear To
+                                  Work
                                 </h3>
                               </div>
                             </a>
                           </div>
                         </div>
                       </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          The actor-producer admitted that the magnitude of the
-                          film's success took the entire team by surprise. “We
-                          were all in disbelief. It just blew up. And suddenly
-                          the conversation shifted from ‘will it work?’ to ‘what
-                          do we do about the next one?’,” he laughed. “It’s
-                          exciting, but yeah—no pressure!”
-                        </span>
-                      </p>
-                      <div>
-                        <div className="ad-flex-all">
+                      <div style={{ width: "100%", margin: "20px 0" }}>
+                        <div
+                          className="flex-all-embed"
+                          style={{ justifyContent: "center" }}
+                        >
                           <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-9"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CJOZnr-G3Y8DFTGkZgIddxc2bw"
-                            style={{ marginBottom: 20 }}
+                            className="rsme-embed rsme-instagram-embed 3385af68-d909-440f-b840-2af1fe533fe7"
+                            style={{
+                              overflow: "hidden",
+                              width: "100%",
+                              borderRadius: 3,
+                              position: "relative",
+                            }}
                           >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_1__container__"
+                            <style
+                              className=""
+                              dangerouslySetInnerHTML={{
+                                __html:
+                                  "\n        .rsme-embed .rsme-d-none {\n          display: none;\n        }\n    \n        .rsme-embed .twitter-tweet {\n          margin: 0 !important;\n        }\n    \n        .rsme-embed blockquote {\n          margin: 0 !important;\n          padding: 0 !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post iframe {\n          width: 100% !important;\n        }\n\n        .rsme-embed.rsme-facebook-embed .fb-post span {\n          width: 100% !important;\n        }\n      ",
+                              }}
+                            />
+                            <iframe
+                              className="instagram-media instagram-media-rendered"
+                              id="instagram-embed-4"
+                              src="https://www.instagram.com/p/DDyxFyiyu9h/embed/?cr=1&v=14&wp=526&rd=https%3A%2F%2Fwww.hollywoodreporterindia.com&rp=%2Flifestyle%2Ffashion%2Fon-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work#%7B%22ci%22%3A4%2C%22os%22%3A1626%2C%22ls%22%3A389.40000000596046%2C%22le%22%3A395.09999999403954%7D"
+                              allowTransparency="true"
+                              allowFullScreen="true"
+                              frameBorder={0}
+                              height={701}
+                              data-instgrm-payload-id="instagram-media-payload-4"
+                              scrolling="no"
                               style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
+                                width: "calc(100% - 2px)",
+                                backgroundColor: "white",
+                                borderRadius: 3,
+                                border: "1px solid rgb(219, 219, 219)",
+                                boxShadow: "none",
+                                display: "block",
+                                margin: "0px 0px 12px",
+                                minWidth: 326,
+                                padding: 0,
                               }}
                             />
                           </div>
                         </div>
                       </div>
+                      <div className="Stories_mainCaption__CKMoz">
+                        <span className="Stories_caption__pLYWo" />
+                        <span className="Stories_courtesy__IorTZ" />
+                      </div>
                       <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>As </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah </span>
-                        <span>
-                          continues to dominate conversations, Dulquer's journey
-                          as a risk-taking producer and actor cements his place
-                          as one of Indian cinema’s most dynamic forces.
-                        </span>
-                      </p>
-                      <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          Watch out for our full interview with the actor,
-                          dropping at 8 PM tonight on{" "}
-                        </span>
-                        <a
-                          target="_blank"
-                          rel="nofollow"
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          href="https://www.youtube.com/@HollywoodReporterIndia"
-                        >
-                          <span
-                            style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          >
-                            The Hollywood Reporter India's YouTube channel
-                          </span>
-                        </a>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          .
-                        </span>
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -557,12 +901,19 @@ const Article = () => {
                     <div className="Stories_breadcumSec__5W47j">
                       <ol className="Stories_breadcrumb__GxI6O">
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/dulquer-salmaan">Dulquer Salmaan</a>
+                          <a href="/tag/hindi-cinema">hindi cinema</a>
                         </li>
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/lokah-chapter-1-chandra">
-                            Lokah Chapter 1: Chandra
-                          </a>
+                          <a href="/tag/bollywood-fashion">Bollywood Fashion</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/indian-fashion">indian fashion</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/lifestyle">lifestyle</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/fashion">fashion</a>
                         </li>
                       </ol>
                     </div>
@@ -574,17 +925,12 @@ const Article = () => {
             <div className="col-md-4 ln-cont">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x250-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x250-687a100ba79c7c4165d63b39"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CKrwn7-G3Y8DFV2kZgIdqYoEGg"
+                  data-google-query-id="CPy4jKbty5ADFewBgwMdgS0OoQ"
                   style={{ marginBottom: 20 }}
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_0__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
-                </div>
+                ></div>
               </div>
               <div className="row mob-hidden">
                 <div className="col-md-12">
@@ -593,7 +939,7 @@ const Article = () => {
                 <div className="col-md-12">
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/what-to-watch-this-week-the-bads-of-bollywood-jolly-llb-3-a-big-bold-beautiful-journey-and-more"
+                    href="/lifestyle/fashion/what-regina-cassandra-siddhartha-shankar-mozez-singh-and-aishwarya-sonar-wear-to-work"
                   >
                     <div className="image h100">
                       <img
@@ -603,7 +949,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A17%253A09.759Z-what%2520to%2520watch%2520%25282%2529.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-23T11%253A05%253A33.484Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -615,18 +961,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 24, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        What to Watch This Week: 'The Ba***ds of Bollywood,'
-                        'Jolly LLB 3,' 'A Big Bold Beautiful Journey' and More
+                        On-Set Wardrobes: What Regina Cassandra, Siddhartha
+                        Shankar, Mozez Singh and Aishwarya Sonar Wear To Work
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/we-wrote-omkara-in-eighteen-days-abhishek-chaubey-on-his-journey-with-vishal-bhardwaj"
+                    href="/lifestyle/travel/travel-like-karishma-tanna-how-the-actor-curated-an-unforgettable-vacation-in-croatia"
                   >
                     <div className="image h100">
                       <img
@@ -636,7 +982,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A30%253A55.819Z-IMG_4162.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-19T06%253A24%253A31.600Z-Untitled%2520design_20251019_113040_0000.png&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -648,18 +994,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 20, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Abhishek Chaubey on His Journey With Vishal Bhardwaj: We
-                        Wrote 'Omkara' In Eighteen Days
+                        Travel Like Karishma Tanna: How The Actor Curated an
+                        Unforgettable Vacation in Croatia
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/sharmila-tagore-interview-on-stardom-today-and-wanting-to-play-a-villainous-character-next"
+                    href="/lifestyle/fashion/vikram-phadnis-is-celebrating-35-yearsand-finally-making-his-hindi-film-debut"
                   >
                     <div className="image h100">
                       <img
@@ -669,7 +1015,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-16T08%253A13%253A18.276Z-Lead.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-14T08%253A57%253A36.966Z-1.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -681,19 +1027,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 14, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Sharmila Tagore on Stardom Today and Wanting to Play a
-                        'Villainous' Character Next: 'Villains, Too, Sometimes
-                        Have Much To Say...'
+                        Interview | Vikram Phadnis On Celebrating 35 Years and
+                        Making His Hindi Film Debut
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/delhi-high-court-to-rule-on-karan-johars-personality-rights-plea-on-september-17"
+                    href="/lifestyle/travel/the-bicester-collection-europes-villages-of-style-flavor-and-discovery"
                   >
                     <div className="image h100">
                       <img
@@ -703,7 +1048,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Farticle%2F-2024-09-21T11%253A15%253A29.957Z-Lead1-KJ.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-10T09%253A30%253A37.505Z-Bicester.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -714,19 +1059,25 @@ const Article = () => {
                       />
                     </div>
                     <div className="content">
+                      <div
+                        className="sponsored-tag"
+                        style={{ lineHeight: 1, fontWeight: 700 }}
+                      >
+                        Sponsored
+                      </div>
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Delhi High Court to Rule on Karan Johar’s Personality
-                        Rights Plea on September 17
+                        The Bicester Collection: Europe’s Villages of Style,
+                        Flavor, and Discovery
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/ustaad-bhagat-singh-the-pawan-kalyan-movie-completes-filming-sreeleela"
+                    href="/lifestyle/fashion/gurfateh-pirzada-on-neels-style-from-call-me-bae-and-why-jacob-elordi-inspires-him"
                   >
                     <div className="image h100">
                       <img
@@ -736,7 +1087,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T06%253A43%253A53.306Z-Untitled%2520design-185.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-09T05%253A50%253A49.207Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -748,18 +1099,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Ustaad Bhagat Singh': The Pawan Kalyan Movie Wraps Up
-                        Filming
+                        Gurfateh Pirzada on Neel's Style From 'Call Me Bae' And
+                        Why Jacob Elordi Inspires Him
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/bobby-deol-on-the-bads-of-bollywood-and-why-aryan-khan-is-a-good-actor-he-looks-like-his-father-but-hes-different"
+                    href="/lifestyle/fashion/from-deepika-padukone-to-angela-bassett-heres-why-jj-valaya-has-been-couturier-to-the-stars-since-1992"
                   >
                     <div className="image h100">
                       <img
@@ -769,7 +1120,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T03%253A35%253A17.756Z-Untitled%2520design_20250916_090438_0000.png&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-06T07%253A45%253A51.916Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -781,19 +1132,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 6, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Bobby Deol on 'The Ba***ds of Bollywood' and Why Aryan
-                        Khan is a Good Actor: 'He Looks Like His Father, But
-                        He's Different'
+                        From Deepika Padukone to Angela Bassett, Here's Why J.J.
+                        Valaya has Been Couturier to the Stars Since 1992
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-director-dominic-arun-on-franchises-future-we-know-how-this-is-going-to-end"
+                    href="/lifestyle/food/from-ananya-panday-to-suhana-khan-everyones-talking-about-gaijin-where-tokyo-meets-mumbai"
                   >
                     <div className="image h100">
                       <img
@@ -803,7 +1153,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T05%253A53%253A11.244Z-IMG_4155.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-02T06%253A42%253A18.807Z-Untitled%2520design%2520%25284%2529.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -815,18 +1165,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Food</span>
+                        <span className="timeline">OCT 2, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Director Dominic Arun on Franchise's Future: 'We
-                        Know How This Is Going to End'
+                        Everyone’s Talking About Gaijin, Where Tokyo Meets
+                        Mumbai
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/vimukt-in-search-of-the-sky-wins-netpac-award-at-tiff-2025"
+                    href="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
                   >
                     <div className="image h100">
                       <img
@@ -836,7 +1186,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-12T11%253A32%253A37.678Z-IMG_4087.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-29T10%253A02%253A34.200Z-New_Lead2.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -848,18 +1198,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Interiors</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Vimukt (In Search of the Sky) Wins NETPAC Award at TIFF
-                        2025{" "}
+                        Shah Rukh Khan to Ranveer Singh: Everything to Know
+                        About Actors' Vanity Vans in Bollywood
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-star-kalyani-priyadarshan-shares-her-father-priyardarshans-reaction-dont-let-success-get-to-your-head"
+                    href="/lifestyle/travel/inside-dhvani-bhanushalis-dreamy-italy-trip-rome-amalfi-milan-and-more"
                   >
                     <div className="image h100">
                       <img
@@ -869,7 +1219,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T12%253A06%253A12.104Z-IMG_4149.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-23T07%253A09%253A30.710Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -881,19 +1231,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Star Kalyani Priyadarshan on Her Father’s
-                        Reaction To Film: 'He messaged Me — Don’t Let Success
-                        Get To Your Head'
+                        Inside Dhvani Bhanushali’s Dreamy Italy Trip: Rome,
+                        Amalfi, Milan and More
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
+                    href="/lifestyle/fashion/alia-bhatt-revisits-90s-gucci-by-tom-ford-at-the-bads-of-bollywood-premiere"
                   >
                     <div className="image h100">
                       <img
@@ -903,7 +1252,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-18T09%253A22%253A33.234Z-WhatsApp%2520Image%25202025-09-18%2520at%25202.52.17%2520PM.jpeg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -915,12 +1264,12 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 18, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah': Michael and Charlie to Get Standalone Films in
-                        The Malayalam Film's Universe?
+                        Alia Bhatt Revisits ’90s Gucci by Tom Ford at 'The
+                        Ba***ds of Bollywood' Premiere
                       </h3>
                     </div>
                   </a>
@@ -928,17 +1277,12 @@ const Article = () => {
               </div>
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x600-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x600-687a100ba79c7c4165d63b39"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CJi3ob-G3Y8DFUijZgIdExUS7Q"
+                  data-google-query-id="COCPjabty5ADFUEFgwMdNKsryg"
                   style={{ marginBottom: 20 }}
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_1__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
-                </div>
+                ></div>
               </div>
             </div>
           </div>
@@ -946,24 +1290,19 @@ const Article = () => {
       </section>
       <div className="ad-flex-all">
         <div
-          id="div-gpt-ad-stories-bottom-68c7ec4d0215019d6ccfd0e0"
+          id="div-gpt-ad-stories-bottom-687a100ba79c7c4165d63b39"
           data-cy="Ad"
           className="ad-text"
-          data-google-query-id="CProo7-G3Y8DFYSpZgIdOB4Tfg"
-        >
-          <div
-            id="google_ads_iframe_/23290324739/THRI-Desktop-Bottom-300_0__container__"
-            style={{ border: "0pt none", width: 300, height: 0 }}
-          />
-        </div>
+          data-google-query-id="CMjEjabty5ADFXEFgwMdetsVwQ"
+        ></div>
       </div>
       <div className="Stories_nextStoryContainer__Dr6xj container">
         <h2 className="Stories_nextStoryTitle__G3Ma4">Next Story</h2>
         <div className="Stories_nextStoryLine__l7CRg" />
       </div>
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="687a100ba79c7c4165d63b39"
+        data-slug="/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
         data-position="top"
         data-marker="true"
         islast="false"
@@ -974,12 +1313,12 @@ const Article = () => {
           height: 10,
           top: "10%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="687a100ba79c7c4165d63b39"
+        data-slug="/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
         data-position="upperMiddle"
         data-marker="true"
         islast="false"
@@ -990,12 +1329,12 @@ const Article = () => {
           height: 10,
           top: "30%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="687a100ba79c7c4165d63b39"
+        data-slug="/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
         data-position="middle"
         data-marker="true"
         islast="false"
@@ -1006,12 +1345,12 @@ const Article = () => {
           height: 10,
           top: "50%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="687a100ba79c7c4165d63b39"
+        data-slug="/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
         data-position="lowerMiddle"
         data-marker="true"
         islast="false"
@@ -1022,12 +1361,12 @@ const Article = () => {
           height: 10,
           top: "70%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="687a100ba79c7c4165d63b39"
+        data-slug="/lifestyle/fashion/on-set-wardrobes-what-krna-udit-arora-shaan-grover-kunal-bhan-and-vedant-mahajan-wear-to-work"
         data-position="bottom"
         data-marker="true"
         islast="false"
@@ -1038,7 +1377,7 @@ const Article = () => {
           height: 10,
           top: "90%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
     </div>
