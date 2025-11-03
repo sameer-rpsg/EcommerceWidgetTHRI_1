@@ -4,7 +4,7 @@ import styles from "@/components/Ecomwidget.module.css"
 const EcomWidgetGrid = () => {
   return (
     <div className={styles.EcomWidgetGridWrapper}>
-      <EcomWidgetCard imgSrc="/01-01.webp"/>
+      <EcomWidgetCard imgSrc="/ecomimg2.png"/>
       <div className={styles.EcomGridText}>
         <span>"If someone wants to make a difference, they need to be able to feel uncomfortable"</span>
       </div>
